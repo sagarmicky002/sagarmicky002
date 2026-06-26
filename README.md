@@ -1,4 +1,4 @@
-# 💫 About Me:
+ About Me:
  Hi 👋, I'm Sagar<br><br>🎓 Final-year B.E. Artificial Intelligence & Machine Learning Student<br><br>💡 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Software Development.<br><br>🚀 I enjoy building intelligent applications and solving real-world problems using Python and modern technologies.<br><br>🌱 Currently Learning<br>- Deep Learning<br>- Generative AI<br>- Data Structures & Algorithms<br><br>📫 Reach me:<br>- 📧 simplyforcostum@gmail.com<br>- 💼 LinkedIn: https://linkedin.com/in/sagar-s-8562402b7<br><br> 🛠️ Tech Stack<br><br>Languages<br>- Python<br>- HTML<br>- CSS<br><br>AI & ML<br>- Machine Learning<br>- Computer Vision<br>- OpenCV<br>- Scikit-learn<br>- Pandas<br>- NumPy<br><br>Databases<br>- MySQL<br>- MongoDB<br><br>Tools<br>- Git<br>- GitHub<br>- VS Code<br>- Jupyter Notebook<br>- Google Colab<br><br>🚀 Featured Projects<br><br>- 🔍 Real-Time Object Detection System<br>- 🎒 Lost & Found Web Application<br>- 🏠 Boston House Price Prediction
 
 
